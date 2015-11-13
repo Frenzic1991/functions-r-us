@@ -1,0 +1,77 @@
+Meeting - Friday, Nov. 13 at 2pm
+
+Decide project brainstorm:
+	- service, community help
+        - rent places
+	- selling or renting 
+	- like stackoverflow -> repositories for code functions
+
+Theme: Programs 'R Us / Functions 'R Us
+
+High-level view of software:
+- mongoose
+- express
+- nodejs for server
+- 
+
+
+List of pages and UI elements:
+- first person is admin
+- bootstrap
+- log in/ sign up page
+	- google/facebook/github sign-in
+- home page
+	- recommended requests to answer
+		- based on previous functions posted
+	- recommended functions
+		- based on previous requests posted
+	- all recent requests
+		- search bar with advanced search
+	- all recent codes
+		- search bar with advanced search
+- personal profile page 
+	- picture
+		- uploaded picture if exists
+		- else if sign in by external
+			google/facebook/github picture 
+		- else, default
+	- show first 5 codes
+	- codes and for each code: 
+		- likes
+		- comments
+- if we have time:
+	- follow other users
+	- personalized code feeds
+
+High level view:
+- front end
+- database -> queries with database -> server
+
+Dates:
+- Fri, Nov. 20th 
+	- frontend basic layout
+		- Cindy: home page + profile
+		- Angeline: log in/sign up + figure out how to connect with extern
+	- backend
+		- Sandi: database schema (user, functions)
+		- Joseph: how to host a server on Heroku, server requests
+	-  On meeting:
+		- Integrate code
+		- Have a mock up ready
+		- Start report 
+- Fri, Nov. 27th
+	- Have all features implemented with autotests?
+	- On meeting:
+		- Run the performance analysis
+- Fri, Dec. 4th
+	- Have security implemented, optimization, etc.
+	- On meeting:
+		- Run the second performance analysis
+		- Upload 3 minute youtube video
+- final - due Sun, Dec. 6th
+
+
+
+
+
+Flow of pages
